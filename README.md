@@ -2,7 +2,6 @@
 <h3 align="center">Digital science and IA  Student In University UM5 RABAT  Morocco</h3>
 
 - 🌱 I’m currently learning **DEEP LEARNING**
--  < !-- 🔭 I’m currently working on *on Java/C++ Code and SQL script Generator from XML File* -- >
 
 - 📫 How to reach me **nidsaidkhadija88@gmail.com**
 
